@@ -63,6 +63,8 @@ github.com/DataDog/sketches-go v0.0.0-20190923095040-43f19ad77ff7 h1:qELHH0AWCvf
 github.com/DataDog/sketches-go v0.0.0-20190923095040-43f19ad77ff7/go.mod h1:Q5DbzQ+3AkgGwymQO7aZFNP7ns2lZKGtvRBzRXfdi60=
 github.com/Jorropo/go-libp2p-swarm v0.2.11 h1:oKNYSCPu9+3+lZyBiQoVqPGFtY6rqamKDR7kNqOPoUo=
 github.com/Jorropo/go-libp2p-swarm v0.2.11/go.mod h1:JQKMGSth4SMqonruY0a8yjlPVIkb0mdNSwckW7OYziM=
+github.com/Jorropo/go-libp2p-swarm v0.3.4 h1:WXT4kyRjF+FBoVXZl7vmdxCZkI6pUvh+ZmG79Y8Iwho=
+github.com/Jorropo/go-libp2p-swarm v0.3.4/go.mod h1:hdv95GWCTmzkgeJpP+GK/9D9puJegb7H57B5hWQR5Kk=
 github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
 github.com/Kubuxu/go-os-helper v0.0.1/go.mod h1:N8B+I7vPCT80IcP58r50u4+gEEcsZETFUpAzWW2ep1Y=
 github.com/Masterminds/goutils v1.1.0 h1:zukEsf/1JZwCMgHiK3GZftabmxiCw4apj3a28RPBiVg=
